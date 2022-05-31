@@ -1,0 +1,8 @@
+C:\Users\Thoufeer\source\repos\CoolShop.Script\CoolShop.Script\bin\Debug\CoolShop.Script.exe.config
+C:\Users\Thoufeer\source\repos\CoolShop.Script\CoolShop.Script\bin\Debug\CoolShop.Script.exe
+C:\Users\Thoufeer\source\repos\CoolShop.Script\CoolShop.Script\bin\Debug\CoolShop.Script.pdb
+C:\Users\Thoufeer\source\repos\CoolShop.Script\CoolShop.Script\obj\Debug\CoolShop.Script.csproj.AssemblyReference.cache
+C:\Users\Thoufeer\source\repos\CoolShop.Script\CoolShop.Script\obj\Debug\CoolShop.Script.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thoufeer\source\repos\CoolShop.Script\CoolShop.Script\obj\Debug\CoolShop.Script.csproj.CoreCompileInputs.cache
+C:\Users\Thoufeer\source\repos\CoolShop.Script\CoolShop.Script\obj\Debug\CoolShop.Script.exe
+C:\Users\Thoufeer\source\repos\CoolShop.Script\CoolShop.Script\obj\Debug\CoolShop.Script.pdb
